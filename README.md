@@ -2,6 +2,6 @@
 
 Parametric Machines
 
-** Table of content
+## Table of content
 
-[]Introduction
+[ ]Introduction
