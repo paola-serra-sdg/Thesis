@@ -1,7 +1,11 @@
 # Thesis
 
-Parametric Machines
 
 ## Table of content
 
-[ ]Introduction
+- [ ] Introduction
+- [ ]  General Background : Julia, Artificial Neural Network
+- [ ]  Parametric Machines
+- [ ]  Case study
+- [ ]  Results
+- [ ]  Conclusion
